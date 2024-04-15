@@ -38,3 +38,4 @@
 {"level":"error","message":"error Esto es algo malo","service":"app","timestamp":"2024-04-15T19:29:26.045Z"}
 {"level":"error","message":"error Esto es algo malo","service":"app","timestamp":"2024-04-15T19:31:36.165Z"}
 {"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2024-04-15T19:32:31.018Z"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2024-04-15T20:46:37.963Z"}
